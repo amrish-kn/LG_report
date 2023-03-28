@@ -17,5 +17,6 @@ include: "/views/**/*.view"
 
 explore: lg_auto_stores_info {}
 
+explore: lg_auto_poi_monthly_visits {}
 #test
 #TEST2
