@@ -18,3 +18,4 @@ include: "/views/**/*.view"
 explore: lg_auto_stores_info {}
 
 #test
+#TEST2
