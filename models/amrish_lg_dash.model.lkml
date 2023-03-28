@@ -1,5 +1,5 @@
 # Define the database connection to be used for this model.
-connection: "athena"
+connection: "dwenigma"
 
 # include all the views
 include: "/views/**/*.view"
