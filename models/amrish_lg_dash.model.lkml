@@ -16,3 +16,5 @@ include: "/views/**/*.view"
 # Each joined view also needs to define a primary key.
 
 explore: lg_auto_stores_info {}
+
+#test
